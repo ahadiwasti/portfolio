@@ -1,1 +1,8 @@
 Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+
+
+
+This will open your default editor (usually vi) with a list of commits and actions for each one. By default, the action is pick. 
+For any commit you wish to change the message, change pick to reword.
+Save and quit (in vi: :wq).
+For each such commit, you'll get an editor to edit the commit message. Change it as you see fit, save and quit.
